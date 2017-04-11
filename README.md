@@ -44,6 +44,15 @@ To create a production bundle, use
 npm run build
 ```
 
+To test the app, run
+```sh
+npm test
+```
+
+Install semantic UI:
+$ npm install semantic-ui-react --save
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

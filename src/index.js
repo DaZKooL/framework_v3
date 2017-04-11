@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Header from './campaign';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
-  document.getElementById('root')
+  <Header />,
+  document.getElementById('campaign')
 );
