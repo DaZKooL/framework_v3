@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Header from './campaign';
-import './index.css';
+import Campaign from './js/campaign';
+import '../semantic/dist/semantic.min.css';
+import './css/templates/index.css';
 
 ReactDOM.render(
-  <Header />,
+  <Campaign />,
   document.getElementById('campaign')
 );

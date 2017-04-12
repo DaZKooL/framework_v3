@@ -24,7 +24,22 @@ then:
 create-react-app framework_v3
 ```
 
-3 - go inside the newly created folder:
+3 - Install babel to see JSX with proper format in your code editor
+```sh
+npm install --save-dev babel-cli babel-preset-react
+```
+
+4 - Install Semantic UI React Package (javascript):
+```sh
+npm install semantic-ui-react --save
+```
+and then the Semantic UI Package (css):
+```sh
+npm install semantic-ui-css --save
+```
+After completion navigate to semantic and run "gulp build" to build
+
+5 - go inside the newly created folder:
 
 ```sh
 cd framework_v3
@@ -32,7 +47,9 @@ cd framework_v3
 
 copy all the files from the repository to this folder.
 
-4 - To begin the development, run     
+5 - 
+
+To begin the development, run     
 
 ```sh
 npm start
@@ -48,9 +65,8 @@ To test the app, run
 ```sh
 npm test
 ```
+6 - Install a Babel packages for your code editor. E.g. for SublimeText: https://packagecontrol.io/packages/Babel
 
-Install semantic UI:
-$ npm install semantic-ui-react --save
 
 
 

@@ -1,0 +1,11 @@
+body{
+	background:#fff;
+}
+#header,p{
+	color:blue;
+}
+.ui.segment{
+  background-color:red;
+  color:#fff;
+
+} 
