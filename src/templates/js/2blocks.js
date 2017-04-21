@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 
 class _2blocks extends Component {
+
+	constructor(props) {
+    super(props);
+  }
+  
     render() {
 
     		

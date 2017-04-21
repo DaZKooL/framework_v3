@@ -1,121 +1,24 @@
 {  
-   "settings":
+   "settings": 
       {
-         "name":"nespresso",
-         "offerid":"12358KX",
+         "name":"senseo",
+         "offerid":"1234ABCD",
          "country":"DE",
          "template":"1block3blocks",
          "conversionstrategy":"pixel"
       }
    ,
    "campaign":[ 
-      {  
+      { 
          "game":[  
-            {  
-               "question":{  
-                  "text":"Heeft u frfrfrvaker Dreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Maybeeee",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            },
-            {  
-               "question":{  
-                  "text":"Heeft u vaker Drfrfrreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            },
-            {  
-               "question":{  
-                  "text":"Heeft u vaker rfrfrDreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            },
-            {  
-               "question":{  
-                  "text":"Heeft u vaker Drfrfrfreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            },
-            {  
-               "question":{  
-                  "text":"2 Heeft u vaker Dreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            },
-            {  
-               "question":{  
-                  "text":"3 azz Heeft u vaker Dreft gebruikt?"
-               },
-               "buttons":[  
-                  {  
-                     "buttonText":"Ja",
-                     "buttonCallback":"dummyCallback"
-                  },
-                  {  
-                     "buttonText":"Nee",
-                     "buttonCallback":"dummyCallback"
-                  }
-               ]
-            }
+            
          ]
       },
       {  
          "questions":[  
             {  
                "question":{  
-                  "text":"Heeft u frfrfrvaker Dreft gebruikt?"
+                  "text":"Heeft u frfrfrvaker Senseo gebruikt?"
                },
                "buttons":[  
                   {  

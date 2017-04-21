@@ -1,0 +1,18 @@
+/* Common css for all templates */
+
+html,body {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+iframe{
+	border:0;
+}
+
+/* overvriting Semantic UI */
+
+/* no padding between columns to give personalisation freedom*/
+.ui.grid>* {
+    padding:0!important;
+}

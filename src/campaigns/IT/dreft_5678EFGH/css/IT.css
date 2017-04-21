@@ -1,11 +1,11 @@
 body{
-	background:#fff;
+	background:black;
 }
 #header,p{
-	color:blue;
+	color:red;
 }
 .ui.segment{
   background-color:red;
-  color:#fff;
+  color:yellow;
 
 } 

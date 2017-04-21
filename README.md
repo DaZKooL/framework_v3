@@ -67,7 +67,7 @@ npm test
 ```
 6 - Install a Babel packages for your code editor. E.g. for SublimeText: https://packagecontrol.io/packages/Babel
 
-
+7 - Install React Developer Tools for Chrome or FF: https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
