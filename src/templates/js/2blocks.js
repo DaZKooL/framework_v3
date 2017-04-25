@@ -13,7 +13,7 @@ class _2blocks extends Component {
                 	<div>
 	                    <div className="column" >
 	                    	<div className="ui text container" > 
-	                   			 <p> { window._campaign.data.settings.template } </p>
+	                   			  <p>{ window._campaign[this.props.campaign].data.settings.template}</p>
 	                   		 </div> 
 	                    </div> 
 	                    <br/>
@@ -26,10 +26,18 @@ class _2blocks extends Component {
 	                    <br/>
 	                    <div className="ui two column doubling grid container">
 						  <div className="column">
-						    <div className="ui segment">Content</div>
+						    <div className="ui segment">
+								<div id="leftColumn" className="ui segment">
+										Left Column
+									</div>
+							    </div>
 						  </div>
 						  <div className="column">
-						    <div className="ui segment">Content</div>
+						    <div className="ui segment">
+								<div id="rightColumn" className="ui segment">
+									Right Column
+								</div>
+						    </div>
 						  </div>
 						</div>
 						

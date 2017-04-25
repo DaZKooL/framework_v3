@@ -4,7 +4,7 @@
          "name":"senseo",
          "offerid":"1234ABCD",
          "country":"DE",
-         "template":"1block3blocks",
+         "template":"2blocks",
          "conversionstrategy":"pixel"
       }
    ,
@@ -41,7 +41,7 @@
             },
             {  
                "question":{  
-                  "text":"Heeft u vaker Drfrfrreft gebruikt?"
+                  "text":"Senseo o o?"
                },
                "buttons":[  
                   {  
@@ -56,7 +56,7 @@
             },
             {  
                "question":{  
-                  "text":"Heeft u vaker rfrfrDreft gebruikt?"
+                  "text":"Ciao?"
                },
                "buttons":[  
                   {  
@@ -71,7 +71,7 @@
             },
             {  
                "question":{  
-                  "text":"Heeft u vaker Drfrfrfreft gebruikt?"
+                  "text":"Heeft u vaker LoL gebruikt?"
                },
                "buttons":[  
                   {  
@@ -86,7 +86,7 @@
             },
             {  
                "question":{  
-                  "text":"2 Heeft u vaker Dreft gebruikt?"
+                  "text":"2 Heeft u vaker Nope gebruikt?"
                },
                "buttons":[  
                   {  
@@ -101,7 +101,7 @@
             },
             {  
                "question":{  
-                  "text":"3 azz Heeft u vaker Dreft gebruikt?"
+                  "text":"3 azz Heeft u vaker 1 2 3 gebruikt?"
                },
                "buttons":[  
                   {  

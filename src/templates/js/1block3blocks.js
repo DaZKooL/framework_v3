@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-var Iframe = require('./../../components/iframe');
-var Questions = require('./../../components/questions');
+
 
 class _1block3blocks extends Component {
 
@@ -44,8 +43,8 @@ constructor(props) {
 </div>
 									  </div>
 									  <div className="column">
-									    <div className="ui segment">
-									    <Questions campaign={this.props.campaign} />
+									    <div id="rightColumn" className="ui segment">
+									    Here we go
 									    </div>
 									  </div>
 									</div>
